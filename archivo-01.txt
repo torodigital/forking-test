@@ -1,2 +1,7 @@
 Este es el archivo 1
 Y no se nada
+Algoritmo de usar git hub 
+> Clonar repositorio 
+> Preguntar con fetch si hay cambios 
+> Matar todo el servidor .......
+
