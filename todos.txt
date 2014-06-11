@@ -2,14 +2,7 @@
  * Daniel
  *
  *
-Cada quien hace su desmadre en el espacio
-delimitado para ello. Pueden poner
-cualquier pendejada que quieran, pero
-dentro de su espacio.
-
-
 HOLAAAAA MUNDO ESTO LO ESCRIBIO VOXNOX!!!!!!!
-
 ******************************************
 
 /**
@@ -28,7 +21,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
  * Ko8
  *
  *
-
+Cada quien hace su desmadre en el espacio
+delimitado para ello. Pueden poner
+cualquier pendejada que quieran, pero
+dentro de su espacio.
 ******************************************
 
 /**
